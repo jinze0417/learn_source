@@ -1,6 +1,7 @@
 https://www.bugcrowd.com/blog/
 https://www.hackerone.com/resources
 https://portswigger.net/research
+https://xz.aliyun.com/
 
 https://www.yuque.com/pmiaowu
 https://www.1aq.com
