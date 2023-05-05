@@ -1,3 +1,4 @@
+google writeups
 https://www.bugcrowd.com/blog/
 https://www.hackerone.com/resources
 https://portswigger.net/research
