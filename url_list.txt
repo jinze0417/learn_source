@@ -2,6 +2,7 @@ google writeups
 bug bounty bootcamp
 https://blog.intigriti.com/
 https://book.hacktricks.xyz/
+https://vickieli.dev/
 https://www.bugcrowd.com/blog/
 https://www.hackerone.com/resources
 https://portswigger.net/research
