@@ -1,1 +1,2 @@
 https://apkpure.com/
+https://github.com/Genymobile/scrcpy
