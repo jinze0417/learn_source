@@ -1,2 +1,7 @@
 https://apkpure.com/
 https://github.com/Genymobile/scrcpy
+
+##ssrf##
+https://app.interactsh.com/#/
+http://requestrepo.com/
+http://pingb.in/
