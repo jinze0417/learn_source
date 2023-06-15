@@ -5,3 +5,6 @@ https://github.com/Genymobile/scrcpy
 https://app.interactsh.com/#/
 http://requestrepo.com/
 http://pingb.in/
+
+##free web hosting##
+https://dash.infinityfree.com/accounts
