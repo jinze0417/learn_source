@@ -1,0 +1,2 @@
+https://www.mend.io/
+https://security.snyk.io/
